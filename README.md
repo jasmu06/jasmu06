@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning **Python, Biopython, and advanced genomics**.
 - 💞️ I’m looking to collaborate on **genomics research projects, data analysis pipelines, or quality assurance**.
 - 📫 How to reach me: **Email** or **LinkedIn**.
-- 😄 Pronouns: **He/Him**.
 - ⚡ Fun fact: **I love working with genomic data and automating tasks to make research more efficient**.
 
 
