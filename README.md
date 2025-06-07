@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jasmu06
+- 👋 Hi, I’m Muhammad Jasim
 - 👀 I’m interested in **genetics, bioinformatics, and data analysis**.
 - 🌱 I’m currently learning **Python, Biopython, and advanced genomics**.
 - 💞️ I’m looking to collaborate on **genomics research projects, data analysis pipelines, or quality assurance**.
